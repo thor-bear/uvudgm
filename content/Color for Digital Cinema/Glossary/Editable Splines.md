@@ -14,12 +14,6 @@ Used in this course's look-building/practicing-looks work to shape specific tona
 ## Teaching Analogies & Examples
 - **Bending a flexible ruler instead of connecting dots with straight lines**: a spline curve doesn't just connect its control points with straight segments — it bends smoothly through them, which is why a curve grade reads as gradual and organic rather than jointed and mechanical.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Curves (Custom, RGB Curves)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Look Matching via Scopes (Reference Footage Analysis)]]
+[[Curves (Custom, RGB Curves)]], [[Look Matching via Scopes (Reference Footage Analysis)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 09 - Codecs and Primaries and Shot-Matching Part 2]], [[Lesson 19c - Practicing Looks II]]

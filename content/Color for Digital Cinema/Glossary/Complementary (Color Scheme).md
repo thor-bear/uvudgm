@@ -16,7 +16,7 @@ Teal-and-orange is the most iconic variant, singled out partly because human ski
 - **Two people standing directly across from each other, arguing loudly**: colors directly opposite on the wheel create maximum visual contrast/tension when paired — which is exactly why they "pop." Teal-and-orange is the iconic version specifically because skin tones sit in the orange range, so pushing everything else teal makes faces the one thing standing out by opposition.
 - Worth having students point at a movie poster and identify the two opposing colors at work — this scheme is genuinely everywhere once you know to look for it, which makes for an easy, high-hit-rate classroom exercise.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Monochromatic (Color Scheme)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Analogous (Color Scheme)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Triadic (Color Scheme)]], [[Hue/Sat/Lum Curves]]
+[[Monochromatic (Color Scheme)]], [[Analogous (Color Scheme)]], [[Triadic (Color Scheme)]], [[Hue/Sat/Lum Curves]]
 
 ## Further Resources
 ```mermaid
@@ -38,10 +38,4 @@ flowchart TB
     M1((Blue, light)) --- M2((Blue, mid)) --- M3((Blue, dark))
     end
 ```
-All four schemes are really just different picking patterns on the same wheel — how far apart the chosen hues sit, and how many of them there are. See [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Analogous (Color Scheme)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Triadic (Color Scheme)]], and [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Monochromatic (Color Scheme)]], which link back here rather than repeating this diagram.
-
-
-## Appears In
-
-
-[[Lesson 10 - Secondaries Part 1 and Color Theory Part 2]]
+All four schemes are really just different picking patterns on the same wheel — how far apart the chosen hues sit, and how many of them there are. See [[Analogous (Color Scheme)]], [[Triadic (Color Scheme)]], and [[Monochromatic (Color Scheme)]], which link back here rather than repeating this diagram.

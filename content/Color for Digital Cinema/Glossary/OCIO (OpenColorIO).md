@@ -15,7 +15,7 @@ Very recent versions of After Effects (2023 onward) added native OCIO-based ACES
 ## Teaching Analogies & Examples
 - **A universal power adapter that any app can plug into**: OCIO is an open, shared standard for describing color-space conversions that many different tools (not just Resolve) can read and apply consistently — instead of every application inventing its own private conversion logic, they can all plug into the same shared config file and get the same result.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/ACES]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/ACEScg vs. ACEScct (ACES Working Spaces)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Color-to-VFX Workflow (Pipeline Order)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/EXR (OpenEXR)]]
+[[ACES]], [[ACEScg vs. ACEScct (ACES Working Spaces)]], [[Color-to-VFX Workflow (Pipeline Order)]], [[EXR (OpenEXR)]]
 
 ## Further Resources
 ```mermaid
@@ -26,9 +26,3 @@ flowchart LR
     D --> E[Reimport to Resolve<br/>matching ACES Input Transform]
 ```
 The round trip only stays color-accurate if every stage tags its color space correctly — skip a step and the reimport won't match the original.
-
-
-## Appears In
-
-
-[[Lesson 26 - HDR and Miscellaneous]]

@@ -16,12 +16,6 @@ In node-based ACES, an IDT is built manually as an ACES Transform OFX node (Inpu
 - **A customs checkpoint at the border**: every camera's footage has to pass through its own specific IDT before entering the ACES "country" — a RED camera declares its own footage differently than an Alexa does, and the IDT is the paperwork that translates each one into the same common internal standard everything inside the border uses.
 - Pairs directly with ODT as the exit checkpoint: IDT translates footage *in*, ODT translates the graded result *out* to whatever screen it's headed to — same border-crossing idea, opposite direction.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/ODT (Output Device Transform)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/ACES]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Color Space Referents (Display-, Camera-, Scene-Referred)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Camera RAW Decode Settings (IPP2, RED Wide Gamut RGB, Log3G10)]]
+[[ODT (Output Device Transform)]], [[ACES]], [[Color Space Referents (Display-, Camera-, Scene-Referred)]], [[Camera RAW Decode Settings (IPP2, RED Wide Gamut RGB, Log3G10)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 12 - Color Management and ACES]], [[Lesson 19c - Practicing Looks II]]

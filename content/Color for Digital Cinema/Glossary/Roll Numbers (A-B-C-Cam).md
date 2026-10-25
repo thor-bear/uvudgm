@@ -18,12 +18,6 @@ The 2nd AC is responsible for keeping roll numbers correctly updated on both the
 ## Teaching Analogies & Examples
 - **Labeling which of several identical suitcases belongs to which traveler**: on a multicam shoot, A-Cam, B-Cam, and C-Cam are just consistent labels for "the primary angle," "the second angle," and so on — a simple naming convention that keeps footage from multiple simultaneous cameras from becoming an unsorted pile once everything lands in one project.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/DIT (Digital Imaging Technician)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Data Burn-In]]
+[[DIT (Digital Imaging Technician)]], [[Data Burn-In]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 07 - Pre-Production and DIT Workflow]]

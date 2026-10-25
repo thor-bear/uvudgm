@@ -14,12 +14,6 @@ A critical export gotcha: turn Output Blanking off before exporting a graded mas
 ## Teaching Analogies & Examples
 - **Matting a picture frame to hide the raw edges**: Output Blanking masks off a defined border around the outside of the frame, hiding any unwanted edge artifacts (dead pixels at the sensor's border, cropping irregularities) the same way a picture-frame mat hides a photo's rough physical edge without cropping the actual printed image underneath.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Aspect Ratio (Cinema, Delivery Standards)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Roundtripping]]
+[[Aspect Ratio (Cinema, Delivery Standards)]], [[Roundtripping]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 23 - Roundtripping Part 2, Hardware, and Workflow Tips]]

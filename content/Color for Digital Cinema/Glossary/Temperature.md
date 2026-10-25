@@ -9,17 +9,11 @@ tags:
 The warm/cool color axis — accessed via the control panel's Offset button, which remaps a wheel to temperature.
 
 ## In Practice
-A common practical fix: adjusting the Color Temperature slider inside the Camera RAW panel is equivalent to changing white balance in-camera on the day, a clean way to fix footage that wasn't properly white-balanced on set, before any node-level grading begins. Paired constantly with [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Tint]] throughout this course's white-balance and beauty-grading work.
+A common practical fix: adjusting the Color Temperature slider inside the Camera RAW panel is equivalent to changing white balance in-camera on the day, a clean way to fix footage that wasn't properly white-balanced on set, before any node-level grading begins. Paired constantly with [[Tint]] throughout this course's white-balance and beauty-grading work.
 
 ## Teaching Analogies & Examples
 - **A stovetop's heat dial, but for light**: warmer light (candlelight, tungsten bulbs) pushes orange; cooler light (overcast sky, fluorescents) pushes blue. The Temperature control slides along that same warm-to-cool axis to counteract or enhance whatever the actual light source in a shot was doing.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Tint]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/White Balance]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Primary Wheels (Lift, Gamma, Gain, Offset)]]
+[[Tint]], [[White Balance]], [[Primary Wheels (Lift, Gamma, Gain, Offset)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 04 - Basic Workflow and Color Terms Part 3]]

@@ -14,13 +14,7 @@ Comes up as part of the vocabulary for articulating a vague "cinematic" request 
 ## Teaching Analogies & Examples
 - **A halo of light bleeding backward through the film itself**: bright light sources (streetlights at night, a window) physically scatter and bounce off the back of the film base before exposing it, producing a soft reddish glow that spills outward from the source — like a drop of red dye slowly spreading outward in water from a bright point of light.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Film Print Emulation (Kodak 2383, Fuji 3510)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Grain (Film Grain Emulation)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Look (Color Grade)]]
+[[Film Print Emulation (Kodak 2383, Fuji 3510)]], [[Grain (Film Grain Emulation)]], [[Look (Color Grade)]]
 
 ## Further Resources
 - [Halation in Film Photography, Explained (Analog.Cafe)](https://www.analog.cafe/r/halation-in-film-photography-i3q4) — includes an illustration of the light-scattering physics plus real example photos of the reddish glow, useful for pointing to a concrete visual reference when discussing "the film look" with a director or DP.
-
-
-## Appears In
-
-
-[[Lesson 16 - Creating Looks Part 1]], [[Lesson 18 - Creating Looks Part 2]]

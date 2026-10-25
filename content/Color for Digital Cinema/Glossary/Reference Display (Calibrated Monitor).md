@@ -18,12 +18,6 @@ True professional-grade references (Sony BVM-X300, now discontinued and succeede
 - **A tuned reference speaker vs. a car stereo**: a car stereo is voiced to sound exciting, boosting bass and treble in ways that would ruin a mix if you trusted it while mastering audio. An uncalibrated monitor does the same thing to color — it can look great and still be lying to you, which is exactly why the images being graded on it need a display that's been told to just show the truth.
 - **A scale that reads five pounds light**: if a bathroom scale is off, every decision made from it is off in the same direction without you knowing it. An uncalibrated display shifts every color decision made on it, silently, in whatever direction that display happens to be biased.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/HDR, WCG (High Dynamic Range, Wide Color Gamut)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/DeckLink, UltraStudio (Hardware Video Output)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/HDR Delivery Formats (Dolby Vision, HDR10, HDR10+)]]
+[[HDR, WCG (High Dynamic Range, Wide Color Gamut)]], [[DeckLink, UltraStudio (Hardware Video Output)]], [[HDR Delivery Formats (Dolby Vision, HDR10, HDR10+)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 02 - Color Terms Part 1]]

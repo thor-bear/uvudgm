@@ -24,17 +24,11 @@ Common algorithms you'll see in these tools:
 The practical upshot for on-set workflow: the hash is computed once from the source file, then recomputed from the destination copy. If the two hashes match, every bit made the trip intact — not just "a file of the right name and size showed up."
 
 ## In Practice
-Named tools: **ShotPut Pro**, **Hedge**, **Silverstack** (third-party), or Resolve's built-in **Clone Tool** (free, found on the Media page) as a no-cost fallback — select source, destination, and checksum type (MD5 is default and generally sufficient). Works alongside the [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/3-2-1 Backup Rule]] as the other half of trustworthy on-set data management.
+Named tools: **ShotPut Pro**, **Hedge**, **Silverstack** (third-party), or Resolve's built-in **Clone Tool** (free, found on the Media page) as a no-cost fallback — select source, destination, and checksum type (MD5 is default and generally sufficient). Works alongside the [[3-2-1 Backup Rule]] as the other half of trustworthy on-set data management.
 
 ## Teaching Analogies & Examples
 - **A digital fingerprint compared before and after a move**: a checksum is a unique code calculated from a file's exact contents — copy the file, recalculate the checksum, and if it matches the original, you know every single bit transferred correctly, not just that a file of the right size showed up. A silent, invisible corruption during a transfer would produce a mismatched fingerprint even though the file looks fine at a glance.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/3-2-1 Backup Rule]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/DIT (Digital Imaging Technician)]]
+[[3-2-1 Backup Rule]], [[DIT (Digital Imaging Technician)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 07 - Pre-Production and DIT Workflow]]

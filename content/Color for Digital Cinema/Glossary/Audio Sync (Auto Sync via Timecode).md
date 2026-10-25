@@ -14,12 +14,6 @@ No confirmation dialog appears when sync succeeds — a useful sanity check is w
 ## Teaching Analogies & Examples
 - **Two synchronized stopwatches instead of clapping to line things up by ear**: when camera and separate sound recorder share matching embedded timecode, Resolve can automatically line up audio and video by that shared number rather than needing a human to spot and align a slate clap manually — the same underlying concept Editing 1 students learn as "jammed slate" sync, just automated here rather than done by eye.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Source Timecode vs. Record Timecode]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Data Burn-In]]
+[[Source Timecode vs. Record Timecode]], [[Data Burn-In]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 07 - Pre-Production and DIT Workflow]]

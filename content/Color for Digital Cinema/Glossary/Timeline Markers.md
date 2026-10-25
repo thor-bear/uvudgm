@@ -15,12 +15,6 @@ Distinct from **marked clips**, a separate Edit-page-level marking system used f
 ## Teaching Analogies & Examples
 - **A sticky note on the timeline itself, not on any one clip**: unlike Flags (which live on a clip), Timeline Markers sit at a specific point in the overall sequence — good for noting a global concern ("client wants this section reviewed," "sync issue somewhere in here") that isn't really about any single shot.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Flags (Flagging)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Group Grading (Groups)]]
+[[Flags (Flagging)]], [[Group Grading (Groups)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 23 - Roundtripping Part 2, Hardware, and Workflow Tips]]

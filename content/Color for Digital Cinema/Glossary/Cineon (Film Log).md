@@ -15,12 +15,6 @@ The fix, in an unmanaged (non-color-managed) project: place a Color Space Transf
 ## Teaching Analogies & Examples
 - **The original ancestor of every log curve used today**: Cineon was built specifically to store scanned film's dynamic range digitally, back before digital cameras had their own native log formats — think of it as the "great-grandparent" curve that modern camera-specific log formats (S-Log, Log3G10, etc.) are conceptually descended from.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Film Print Emulation (Kodak 2383, Fuji 3510)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Color Space Transform (CST)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/LUT]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/ACES]]
+[[Film Print Emulation (Kodak 2383, Fuji 3510)]], [[Color Space Transform (CST)]], [[LUT]], [[ACES]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 18 - Creating Looks Part 2]]

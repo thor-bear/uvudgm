@@ -16,12 +16,6 @@ Premiere uses MainConcept (competent, not top-tier). **x264** is widely regarded
 ## Teaching Analogies & Examples
 - **A recipe vs. the chef who cooks it**: a Codec is the specification — the rules for how video gets compressed and decompressed (H.264, ProRes). An Encoder is the specific piece of software or hardware actually doing that compression according to those rules — two different H.264 encoders can follow the same recipe (spec) but produce slightly different results depending on how well each one cooks.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Codec]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Container (Wrapper)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/High Compression (Deliverable) Codecs]]
+[[Codec]], [[Container (Wrapper)]], [[High Compression (Deliverable) Codecs]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 25 - Deliverables and Creating a DCP]]

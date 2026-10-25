@@ -14,12 +14,6 @@ Rule of thumb: shoot/work in a bit depth higher than your final delivery target 
 ## Teaching Analogies & Examples
 - **How many steps are on the staircase between black and white**: 8-bit gives you 256 steps per channel; 10-bit gives you 1,024. More steps means smoother gradients — an 8-bit sky can show visible banding (distinct stripes) where a 10-bit version shows a seamless gradient, because there simply aren't enough steps in 8-bit to represent the transition smoothly once you start pushing it.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Chroma Subsampling]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Dynamic Range]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Latitude]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/ProRes (Codec Family)]]
+[[Chroma Subsampling]], [[Dynamic Range]], [[Latitude]], [[ProRes (Codec Family)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 05 - Primaries and Shot-Matching Part 1]], [[Lesson 08 - Conforming and Roundtripping]]

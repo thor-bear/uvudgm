@@ -14,12 +14,6 @@ Two methods covered in this course. **Automatic**: export the timeline as XML/FC
 ## Teaching Analogies & Examples
 - **Rebuilding a Lego set from the instruction booklet, using the good bricks instead of the loose prototype pieces**: an editor's offline cut used lower-quality proxy media to work fast; Conforming takes that edit's instructions (the AAF/XML/EDL) and rebuilds the exact same sequence, shot for shot, but swapping in the original full-quality camera files — same structure, better materials.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Roundtripping]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Locked Cut (Picture Lock)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Proxy (Editing Proxies)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/XML (Editing Interchange)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/AAF (Advanced Authoring Format)]]
+[[Roundtripping]], [[Locked Cut (Picture Lock)]], [[Proxy (Editing Proxies)]], [[XML (Editing Interchange)]], [[AAF (Advanced Authoring Format)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 08 - Conforming and Roundtripping]]

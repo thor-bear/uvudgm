@@ -15,12 +15,6 @@ Used constantly throughout this course as a finishing touch on secondary correct
 ## Teaching Analogies & Examples
 - **A dimmer on the whole effect, not the tool inside it**: instead of adjusting the actual grade a node is applying, Key Output Gain turns down how strongly that entire node's result gets blended back in — like a mix knob on one channel of a mixing board, dialing the whole effect toward "barely there" or "fully applied" without touching any of its individual settings.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Keyframing (Power Window Keyframes)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/32-bit Float]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/LUT]]
+[[Keyframing (Power Window Keyframes)]], [[32-bit Float]], [[LUT]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 15 - Tracking and Keyframing]], [[Lesson 18 - Creating Looks Part 2]]

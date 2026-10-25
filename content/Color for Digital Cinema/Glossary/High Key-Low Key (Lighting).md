@@ -18,12 +18,6 @@ Demonstrated in this course with side-by-side high-key and low-key versions of t
 - **The room's overall lighting mood, independent of what color the paint is**: a room can be painted any color and still be lit brightly and evenly (High Key) or moodily with deep shadows (Low Key) — brightness/contrast structure and hue are two completely separate levers, and this term is specifically about the first one.
 - Good demo already built into this course: take the same bright, balanced shot and recolor it (pushed yellow) without changing its brightness at all — proves the two axes are genuinely independent rather than just conceptually distinct.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Look (Color Grade)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Complementary (Color Scheme)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Dodge and Burn]]
+[[Look (Color Grade)]], [[Complementary (Color Scheme)]], [[Dodge and Burn]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 06 - Color Theory]]

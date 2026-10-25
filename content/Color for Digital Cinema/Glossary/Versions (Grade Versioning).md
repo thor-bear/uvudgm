@@ -15,12 +15,6 @@ The standard technique behind nearly every before/after comparison in this cours
 - **Save-as, but built into the software**: instead of duplicating a whole project file to try a different grade direction, Versions let you keep multiple complete grades on the exact same clip, switchable with a click — like having "Draft 1," "Draft 2," and "Final" all open on the same page of a document.
 - Good use case to state plainly: showing a director two competing looks on the same shot without ever leaving the clip or risking overwriting either one.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Group Grading (Groups)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Shot-Matching]]
+[[Group Grading (Groups)]], [[Shot-Matching]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 06 - Color Theory]], [[Lesson 09 - Codecs and Primaries and Shot-Matching Part 2]], [[Lesson 11 - Secondaries Part 1 Lab 06]], [[Lesson 14 - Skintones and Beauty Grading]], [[Lesson 17b - Color to VFX Workflow and External Mattes]], [[Lesson 19b - Practicing Looks]]

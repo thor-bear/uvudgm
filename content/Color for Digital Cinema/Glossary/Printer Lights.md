@@ -15,12 +15,6 @@ Once active, each color/exposure axis maps to specific number keys (Exposure on 
 - **A numeric keypad standing in for a mixing console**: instead of grabbing a wheel with the mouse, each number key nudges a specific channel (red, green, blue, exposure) up or down by a fixed amount — a fast, tactile, keyboard-only alternative some working colorists genuinely prefer for quick offset balancing, descended from literal photochemical film-printing controls of the same name.
 - Worth framing as "an option, not homework" — this course explicitly presents it as bonus, not quiz material, and it's worth preserving that low-stakes framing when teaching it.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Primary Wheels (Lift, Gamma, Gain, Offset)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/ACES]]
+[[Primary Wheels (Lift, Gamma, Gain, Offset)]], [[ACES]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 06 - Color Theory]]

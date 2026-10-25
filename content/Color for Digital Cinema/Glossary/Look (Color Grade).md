@@ -14,12 +14,6 @@ Core distinction stressed throughout this course: primary corrections are not su
 ## Teaching Analogies & Examples
 - **The outfit, not the person underneath**: a "Look" is the intentional creative style layered on top of an already-balanced, well-primaried image — the person (the primaried footage) needs to be healthy and well-proportioned before you dress them in a specific style; putting the outfit on a poorly-balanced foundation is what produces those unconvincing "attempted style with nothing underneath" examples this course already uses.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Primary Corrections]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Secondary Corrections]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Look Matching via Scopes (Reference Footage Analysis)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Append Node Graph]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Film Print Emulation (Kodak 2383, Fuji 3510)]]
+[[Primary Corrections]], [[Secondary Corrections]], [[Look Matching via Scopes (Reference Footage Analysis)]], [[Append Node Graph]], [[Film Print Emulation (Kodak 2383, Fuji 3510)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 05 - Primaries and Shot-Matching Part 1]], [[Lesson 10 - Secondaries Part 1 and Color Theory Part 2]]

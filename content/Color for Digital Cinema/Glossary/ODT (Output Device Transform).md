@@ -15,12 +15,6 @@ In node-based ACES, an ODT sits as the very last node in the chain (Input: ACESc
 ## Teaching Analogies & Examples
 - **The exit checkpoint on the other side of ACES's border**: after grading happens inside the common ACES space, the ODT translates the result back out into whatever the final destination actually needs — a Rec. 709 ODT for a standard TV, a P3-DCI ODT for a cinema screen, an HDR ODT for a Dolby Vision display. Same footage, different exit paperwork depending on where it's headed.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/IDT (Input Device Transform)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/ACES]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Rec. 709]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Color Space Transform (CST)]]
+[[IDT (Input Device Transform)]], [[ACES]], [[Rec. 709]], [[Color Space Transform (CST)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 12 - Color Management and ACES]]

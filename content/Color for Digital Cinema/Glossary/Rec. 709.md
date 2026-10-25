@@ -15,12 +15,6 @@ This course's default (non-color-managed) project setting is DaVinci YRGB with T
 ## Teaching Analogies & Examples
 - **The "safe default" everyone can read**: Rec. 709 is the standard broadcast/HDTV color space — a smaller, older box of crayons compared to Rec. 2020, but one virtually every screen in the world can display correctly without any translation. It's the class default specifically because it's the color space students' work is most likely to actually be viewed correctly on, on whatever device grades their assignment.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Color Space]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Gamut]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Gamma]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/P3-DCI]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Rec. 2020]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/DaVinci YRGB]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/ODT (Output Device Transform)]]
+[[Color Space]], [[Gamut]], [[Gamma]], [[P3-DCI]], [[Rec. 2020]], [[DaVinci YRGB]], [[ODT (Output Device Transform)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 02 - Color Terms Part 1]], [[Lesson 03 - Color Terms Part 2]], [[Lesson 04 - Basic Workflow and Color Terms Part 3]]

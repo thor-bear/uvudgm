@@ -15,13 +15,7 @@ The baseline node type used throughout this course; primaries and most sequentia
 - **An assembly line**: each node is a station the image passes through in order — Station 1 fixes exposure, Station 2 adjusts color, Station 3 adds a vignette — and each station sees the result of everything before it, not the original raw image.
 - The order genuinely matters, which is worth demonstrating rather than just stating: build the exact same three adjustments in a different node order and show how the result changes, especially with something like a vignette before vs. after a saturation boost.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Layer Mixer]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Parallel Node]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Outside Node]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Compound Node]]
+[[Layer Mixer]], [[Parallel Node]], [[Outside Node]], [[Compound Node]]
 
 ## Further Resources
-See [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Layer Mixer]] for a side-by-side diagram comparing all three node types.
-
-
-## Appears In
-
-
-[[Lesson 06 - Color Theory]]
+See [[Layer Mixer]] for a side-by-side diagram comparing all three node types.

@@ -15,12 +15,6 @@ Mentioned in this course as a native alternative to the AAF/XML round-trip cover
 ## Teaching Analogies & Examples
 - **A stripped-down travel itinerary instead of the full trip journal**: a DRT carries just the essential edit structure — cuts, trims, basic ordering — without the extra detail a full project file would include, useful specifically as a lightweight interchange format when the receiving end doesn't need (or can't use) everything a native Resolve project contains.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Conforming]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/XML (Editing Interchange)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Proxy (Editing Proxies)]]
+[[Conforming]], [[XML (Editing Interchange)]], [[Proxy (Editing Proxies)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 07 - Pre-Production and DIT Workflow]]

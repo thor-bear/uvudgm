@@ -16,12 +16,6 @@ The technique: draw high detail only where an edge genuinely needs to be clean (
 ## Teaching Analogies & Examples
 - **Two separate dimmer zones on either side of a doorway threshold**: standard feathering treats a window's edge as one symmetric blur. Inside/Outside Softness lets you control how the effect fades *into* the window and how it fades *outside* it independently — like being able to dim the light differently on each side of a doorway instead of one uniform gradient straddling the frame.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Power Windows]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Keyframing (Power Window Keyframes)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Organic Vignette]]
+[[Power Windows]], [[Keyframing (Power Window Keyframes)]], [[Organic Vignette]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 15 - Tracking and Keyframing]]

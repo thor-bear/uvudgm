@@ -18,12 +18,6 @@ When handing footage off for VFX, exporting as an EXR sequence in ACEScg (linear
 ## Teaching Analogies & Examples
 - **Two different units of measurement for the same quantity**: ACEScg is linear — like measuring light in raw physical units, which is exactly what a compositing/VFX renderer needs to do accurate physics-based math. ACEScct is log — like measuring on a curved, perceptually-scaled dial, which is what a colorist's eye and grading tools respond to more intuitively. Same underlying scene, two different rulers depending on which job you're doing.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/ACES]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/OCIO (OpenColorIO)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/EXR (OpenEXR)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Color-to-VFX Workflow (Pipeline Order)]]
+[[ACES]], [[OCIO (OpenColorIO)]], [[EXR (OpenEXR)]], [[Color-to-VFX Workflow (Pipeline Order)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 04 - Basic Workflow and Color Terms Part 3]], [[Lesson 12 - Color Management and ACES]], [[Lesson 26 - HDR and Miscellaneous]]

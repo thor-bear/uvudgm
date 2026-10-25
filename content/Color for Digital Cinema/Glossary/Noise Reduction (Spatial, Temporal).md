@@ -18,12 +18,6 @@ The recommended hybrid approach, repeated throughout this course: since eyes are
 ## Teaching Analogies & Examples
 - **Smoothing out a single blurry photo vs. averaging several photos of the same still moment**: Spatial noise reduction looks only within one frame and smooths grain there, the way blurring a single photo softens its speckled texture. Temporal noise reduction compares *multiple frames* over time and averages out what's just random per-frame noise, the way stacking several photos of the same static scene and averaging them cancels out random sensor noise while keeping the real image intact. A hybrid approach uses both together.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Chrominance]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Luminance]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/OFX (OpenFX Plugins)]]
+[[Chrominance]], [[Luminance]], [[OFX (OpenFX Plugins)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 19 - Misc Color Tips]]

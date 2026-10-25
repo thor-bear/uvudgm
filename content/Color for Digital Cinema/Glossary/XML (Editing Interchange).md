@@ -16,12 +16,6 @@ When importing into Resolve, use **Edit page → File → Import → Timeline**,
 ## Teaching Analogies & Examples
 - **A richer, more modern version of the same moving-truck inventory idea as AAF**: XML describes an edit's structure in a widely-readable text format, and generally carries more detail (effects, richer metadata) than the older EDL — think of AAF and XML as two different but comparably capable inventory formats, both meaningfully more detailed than EDL's bare-bones list.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Conforming]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/AAF (Advanced Authoring Format)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/EDL (Edit Decision List)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Locked Cut (Picture Lock)]]
+[[Conforming]], [[AAF (Advanced Authoring Format)]], [[EDL (Edit Decision List)]], [[Locked Cut (Picture Lock)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 07 - Pre-Production and DIT Workflow]], [[Lesson 08 - Conforming and Roundtripping]], [[Lesson 23 - Roundtripping Part 2, Hardware, and Workflow Tips]], [[Lesson 24 - Onlining Part 2 and Mastering]]

@@ -14,13 +14,7 @@ Rec. 709 has the narrowest gamut of the three spaces compared in this course; P3
 ## Teaching Analogies & Examples
 - **The fenced yard a dog can actually run in**: Gamut is the boundary of every color a given system can represent — anything outside the fence simply isn't reachable, no matter how hard you push a slider. A wider gamut (Rec. 2020) is a bigger yard; a narrower one (Rec. 709) is a smaller yard with the same dog inside it.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Color Space]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Gamma]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Rec. 709]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/P3-DCI]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Rec. 2020]]
+[[Color Space]], [[Gamma]], [[Rec. 709]], [[P3-DCI]], [[Rec. 2020]]
 
 ## Further Resources
 - [Color Gamut: Understanding Rec.709, DCI-P3, and Rec.2020 (BenQ)](https://www.benq.com/en-us/business/resource/trends/understanding-color-gamut.html) — a clear CIE chromaticity diagram showing the three gamuts nested inside each other, which makes the "bigger yard" analogy above literally visible rather than just described.
-
-
-## Appears In
-
-
-[[Lesson 02 - Color Terms Part 1]]

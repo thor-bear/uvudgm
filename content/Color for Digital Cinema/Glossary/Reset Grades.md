@@ -14,12 +14,6 @@ Used throughout this course to set up "visual matching, no node data" exercises:
 ## Teaching Analogies & Examples
 - **Wiping a whiteboard clean before someone else uses it**: Reset Grades strips a clip's node tree back to nothing — a fresh, ungraded starting point — used deliberately in this course's Shot-Matching Part 2 exercise specifically to force students to match a reference by eye and scope, with no old node data left over to lean on as a shortcut.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Shot-Matching]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Versions (Grade Versioning)]]
+[[Shot-Matching]], [[Versions (Grade Versioning)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 05 - Primaries and Shot-Matching Part 1]], [[Lesson 12 - Color Management and ACES]]

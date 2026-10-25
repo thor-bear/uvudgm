@@ -26,12 +26,6 @@ Hue-vs-Hue is the workhorse of this course's color-scheme pushes — nudging blu
 - **A dial that only turns when a specific condition is met**: a "Hue vs. Sat" curve says "wherever this specific hue shows up, change its saturation by this amount" — it only acts on the targeted range of the input axis, leaving every other hue in the image completely untouched. That's what makes these curves feel more surgical than a global slider: you're writing a conditional rule, not a blanket adjustment.
 - The green-shift example already used in this course (nudging one camera's rendering of green closer to another's) is worth keeping as the anchor case — it's a concrete, real problem (camera-matching) solved by a tool that otherwise sounds abstract.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Curves (Custom, RGB Curves)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Hue]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Saturation]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Complementary (Color Scheme)]]
+[[Curves (Custom, RGB Curves)]], [[Hue]], [[Saturation]], [[Complementary (Color Scheme)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 05 - Primaries and Shot-Matching Part 1]], [[Lesson 10 - Secondaries Part 1 and Color Theory Part 2]], [[Lesson 11 - Secondaries Part 1 Lab 06]], [[Lesson 14 - Skintones and Beauty Grading]], [[Lesson 19c - Practicing Looks II]]

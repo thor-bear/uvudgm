@@ -15,12 +15,6 @@ Once picture is locked using proxies, an editor exports an AAF (Avid) or XML (Pr
 ## Teaching Analogies & Examples
 - **A moving truck's inventory list, not the furniture itself**: AAF describes an edit's structure (which clips, in what order, with what trims) so it can move between different software — like handing a new house's movers a detailed inventory instead of the furniture, so they know exactly what to set up where without you having to physically carry each piece yourself.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Conforming]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/XML (Editing Interchange)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/EDL (Edit Decision List)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Proxy (Editing Proxies)]]
+[[Conforming]], [[XML (Editing Interchange)]], [[EDL (Edit Decision List)]], [[Proxy (Editing Proxies)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 07 - Pre-Production and DIT Workflow]], [[Lesson 08 - Conforming and Roundtripping]]

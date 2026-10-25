@@ -14,12 +14,6 @@ A simple but easy-to-skip habit: before tracking or keyframing a power window, s
 ## Teaching Analogies & Examples
 - **Picking the best single photo from a burst before editing the whole sequence**: rather than tracking or keyframing a window across every single frame of a moving shot, you find the one frame that best represents the shot's key moment, build the grade there, and let that "hero" frame's setup carry (or get tracked) across the rest.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Motion Tracking]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Keyframing (Power Window Keyframes)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Power Windows]]
+[[Motion Tracking]], [[Keyframing (Power Window Keyframes)]], [[Power Windows]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 15 - Tracking and Keyframing]]

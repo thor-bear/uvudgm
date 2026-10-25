@@ -17,13 +17,7 @@ This course's class panel is the DaVinci Resolve Micro Panel; the instructor's o
 ## Teaching Analogies & Examples
 - **A mixing board vs. a mouse doing all the same jobs, slower**: three trackball wheels under three fingers can adjust Lift/Gamma/Gain simultaneously, the way a real mixing console lets a sound engineer ride several faders at once — a mouse can technically do the same adjustments, but only one control at a time, in sequence, the way clicking through a software mixer one channel at a time is technically possible but nowhere near as fluid as physical hands on physical dials.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Reference Display (Calibrated Monitor)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/DeckLink, UltraStudio (Hardware Video Output)]]
+[[Reference Display (Calibrated Monitor)]], [[DeckLink, UltraStudio (Hardware Video Output)]]
 
 ## Further Resources
 - [DaVinci Resolve Panels (Blackmagic Design, official)](https://www.blackmagicdesign.com/products/davinciresolve/panels) — photos and specs comparing the Micro, Mini, and Advanced panels side by side, useful for showing what the class panel actually looks like and where the recommended upgrades sit relative to it.
-
-
-## Appears In
-
-
-[[Lesson 04 - Basic Workflow and Color Terms Part 3]]

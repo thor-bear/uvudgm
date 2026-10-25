@@ -14,12 +14,6 @@ Mentioned in this course's DIT lesson but explicitly not demonstrated in depth (
 ## Teaching Analogies & Examples
 - **Sending your grade to a coworker without emailing the whole file**: Remote Versions let a grade travel independently of the media itself — useful for collaborating across systems or facilities where the actual footage already lives on the other end, so only the (much smaller) grading data needs to move.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Conforming]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Show LUT (Pre-Production LUT)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Versions (Grade Versioning)]]
+[[Conforming]], [[Show LUT (Pre-Production LUT)]], [[Versions (Grade Versioning)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 07 - Pre-Production and DIT Workflow]]

@@ -15,12 +15,6 @@ Cited in this course via the *King Kong* (2005) BTS material: the DP (Andrew Les
 ## Teaching Analogies & Examples
 - **The whole finishing stage, not just one tool inside it**: DI is the umbrella term for the entire digital post-production finishing process a film goes through — color grading is the most visible part, but DI as a term also covers the broader digital pipeline that replaced older photochemical film-finishing processes. Worth distinguishing from "color grading" specifically: grading is a task within the DI process, not a synonym for it.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Color Bible]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Log (Footage)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Dynamic Range]]
+[[Color Bible]], [[Log (Footage)]], [[Dynamic Range]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 10 - Secondaries Part 1 and Color Theory Part 2]]

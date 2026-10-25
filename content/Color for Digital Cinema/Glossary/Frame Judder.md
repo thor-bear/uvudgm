@@ -15,12 +15,6 @@ This course's explicit warning: match the timeline frame rate to whatever the ma
 ## Teaching Analogies & Examples
 - **Watching a flipbook with a few pages taped together in the wrong spots**: when a timeline's frame rate doesn't match the footage's actual frame rate, some frames get duplicated to make the math work out — instead of smooth, even motion, playback develops a subtle stutter, the visual equivalent of a flipbook where a couple of pages got stuck together and skip the eye's expectation of even pacing.
 ## Related Terms
-[[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/Aspect Ratio (Cinema, Delivery Standards)]], [[Atlas/Notes/Student Notes/Color for Digital Cinema/Glossary/DCP (Digital Cinema Package)]]
+[[Aspect Ratio (Cinema, Delivery Standards)]], [[DCP (Digital Cinema Package)]]
 
 ## Further Resources
-
-
-## Appears In
-
-
-[[Lesson 04 - Basic Workflow and Color Terms Part 3]]
