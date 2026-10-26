@@ -1,1 +1,1 @@
-![[panel-1-v15-ink.svg|500]]![[panel-2-v6-ink.svg|499]]![[panel-3-v10-ink.svg|504]]
+![[panel-1-v15-ink.svg|500]]![[panel-2-v6-ink.svg|499]]![[panel-3-v10-ink.svg|500x400]]
