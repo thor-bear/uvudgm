@@ -20,11 +20,11 @@ Legendary editor Walter Murch's priority-ordered framework for what a cut should
 ## Further Resources
 ```mermaid
 flowchart TD
-    A["1. Emotion<br/>(highest priority)"] --> B["2. Story"]
-    B --> C["3. Rhythm"]
-    C --> D["4. Eye Trace"]
-    D --> E["5. 2D Plane"]
-    E --> F["6. 3D Space<br/>(lowest priority)"]
+    A["1 — Emotion<br/>(highest priority)"] --> B["2 — Story"]
+    B --> C["3 — Rhythm"]
+    C --> D["4 — Eye Trace"]
+    D --> E["5 — 2D Plane"]
+    E --> F["6 — 3D Space<br/>(lowest priority)"]
     G["A cut can break a LOWER<br/>rule to serve a HIGHER one"] -.applies to whole chain.-> A
 ```
 
