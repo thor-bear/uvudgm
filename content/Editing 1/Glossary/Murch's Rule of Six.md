@@ -9,7 +9,7 @@ tags:
 
 ## Definition
 Legendary editor Walter Murch's priority-ordered framework for what a cut should serve, from most to least important: **1. Emotion, 2. Story, 3. Rhythm, 4. Eye Trace, 5. 2D Plane (screen direction), 6. 3D Space (spatial continuity).** The ordering matters — Murch's claim is that a cut can violate the lower-priority rules (continuity, spatial logic) if doing so serves emotion or story, but rarely the reverse.
-
+![[Walter-Murch-Rule-of-6-Graph-StudioBinder.png]]
 ## In Practice
 Introduced in Lesson 20, deliberately sequenced *after* students have already spent several classes cutting the Jacuzzi dialogue scenes — so "Emotion first" lands as confirmation of instincts they've already been developing, not an abstract rule handed down cold. Directly ties back to the Tom Cross (*La La Land*) interview material from earlier in the semester. Applied hands-on to two specific techniques: extending a reaction beat by trimming off-camera dialogue (Jacuzzi Scene 9), and **Rate Stretch** to slow down a reaction shot for emphasis. [[Eye Trace]] specifically gets its own dedicated example clip ("Editing Eye Trace – Oscars Montage").
 
