@@ -9,9 +9,6 @@ tags:
 ## Definition
 Two related but distinct audio level controls. **Gain** is a static adjustment to a clip's base level, applied uniformly across its whole duration. **Volume** is a modulated, keyframeable adjustment layered on top — it can rise and fall over time within the same clip.
 
-## In Practice
-Flagged explicitly in Lesson 12 as a recurring point of confusion worth re-anchoring throughout the mixing workflow: Gain gets adjusted from the Sequence, Source, and Bin (and via the Audio Mixer in the Audio Workspace), while Volume is adjusted in the sequence using [[Audio Keyframing]] — interviews in particular typically need both Gain pushed up to around **+12** and additional Volume shaping on top. First introduced back in Lesson 6's Montage assignment at a simpler level (adjusting Gain from the timeline, source, and bin, with the Gain ≠ Volume distinction stated directly). Lesson 22 draws the Premiere parallel: the **Audio Track Mixer** is functionally the same adjustment as riding gain in the timeline, described as the same underlying concept as Media Composer's gain controls.
-
 ## Teaching Analogies & Examples
 - **A car's volume knob vs. cruise control**: Gain is like setting the radio to a fixed volume before you start driving — it stays put. Volume (with keyframes) is like cruise control that speeds up and slows down automatically as the road changes — it's dynamic over time.
 - **Filling a glass vs. tilting it while you drink**: Gain decides how full the glass is poured in the first place; Volume is tilting it more or less as you go, moment to moment.

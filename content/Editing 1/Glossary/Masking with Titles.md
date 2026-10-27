@@ -8,9 +8,6 @@ tags:
 ## Definition
 Using a title's own text or shape as a mask — so video plays back *inside* the letters or shape, rather than the title simply sitting on top of the footage as flat colored text.
 
-## In Practice
-Demonstrated in Lesson 21 with the **"Cello Clip for PR"** asset: a large bold word "CELLO" is created as a title and used to mask video playing through it. Flagged with an honest caveat worth preserving — Premiere recently updated its masking tools, and the colleague notes he hasn't yet relearned the new version, so this technique may need re-verifying against the current app before teaching it as written.
-
 ## Teaching Analogies & Examples
 - **A cookie cutter for video**: the shape of the letters (or any title) becomes a window — video only shows through where the cutter has actually cut, everything outside stays blank/transparent.
 ## Related Terms
