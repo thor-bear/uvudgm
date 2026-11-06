@@ -8,7 +8,7 @@ import { componentRegistry } from "./quartz/components/registry"
 // To pin a different page, change the slug (lowercase, spaces become hyphens).
 const explorerOptions = {
   sortFn: (a: any, b: any) => {
-    const PINNED = "documentary-craft/complete-documentary-list.base"
+    const PINNED = "documentary-craft/film-recommendations/complete-documentary-list.base"
     if (a.slug === PINNED) return -1
     if (b.slug === PINNED) return 1
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
