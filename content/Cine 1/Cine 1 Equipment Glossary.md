@@ -5,7 +5,7 @@ tags:
 # Cine 1 Equipment Glossary
 
 > [!info] About this glossary
-> Definitions were compiled with AI assistance (Claude) to explain the equipment terms introduced on day one of Cine 1. Photos are representative examples; a few (pipe clamp, pigeon plate, chain vise grip, grip clips, dolly & track, jib) are stand-ins rather than the exact model shown in class. Tap a 🔧 entry to expand it.
+> Photos are representative examples; a few (pipe clamp, pigeon plate, chain vise grip, grip clips, dolly & track, jib) are stand-ins rather than the exact model shown in class. Tap a 🔧 entry to expand it.
 
 > [!note]- 🔧 Disconnect box
 > The main power source for the whole set — a portable distribution box (often called a "disco" or "bull switch") that takes in three-phase power from a generator or building tie-in and breaks it out into the smaller feeder cables ("pigtails") that run to lights. 400 amps is genuinely dangerous — this is why only the gaffer and electricians ("sparks"/"juicers") are allowed to touch it. [BarnDoor Lighting: distro boxes](https://www.filmandvideolighting.com/electrical-distribution-distro-box-boxes-stage-tv-film-video-lighting.html)

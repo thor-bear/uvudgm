@@ -1,0 +1,15 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+filters:
+  and:
+    - "!position.isEmpty()"
+    - '!file.folder.contains("Efforts")'
+views:
+  - type: cards
+    name: Films
+    imageAspectRatio: 1.15
+    cardSize: 130
+    image: note.poster
