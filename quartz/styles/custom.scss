@@ -5,3 +5,17 @@
 body[data-slug="index"] .article-title {
   display: none;
 }
+
+// Pinned page in the Explorer sidebar: Complete Documentary List.
+// Matches the page by the end of its link, so it follows the pin set in quartz.ts.
+// If you ever pin a different page, change the slug in both places.
+.explorer a[href$="complete-documentary-list.base"] {
+  display: block;
+  padding: 0.3rem 0.6rem;
+  margin: 0.25rem 0 0.6rem;
+  border-left: 3px solid var(--secondary);
+  border-radius: 4px;
+  background: var(--highlight);
+  color: var(--secondary);
+  font-weight: 700;
+}
