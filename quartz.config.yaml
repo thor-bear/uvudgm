@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "WikiTorben"
+  pageTitle: WikiTorben
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -273,6 +273,12 @@ plugins:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
+    order: 50
+  - source: github:quartz-community/bases-page
+    enabled: true
+    options:
+      defaultViewType: table
+      linkResolution: shortest
     order: 50
 layout:
   groups:
