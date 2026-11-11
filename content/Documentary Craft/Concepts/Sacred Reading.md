@@ -6,7 +6,6 @@
 ## Insights
 
 ## What ter Kuile says in the book
-*(AI-compiled, paraphrased from secondary sources; see Sources)*
 
 - **What makes a text sacred.** He credits his mentor, Harvard Divinity School professor [[Stephanie Paulsell]], with the idea: a text is sacred when a community says so. A group returns to the same text year after year, bringing its questions, struggles and joys, and the text becomes *generative*, producing new responses in writing, music, movement, film and story. That gives us permission to infuse spiritual meaning into whatever text speaks to us. (Quoted at length in [Caitlin Kunkel's Substack post](https://inputandoutput.substack.com/p/input-sacred-reading).)
 - **Not only scripture.** Sacred reading does not require religious texts. The book applies devotional practices developed for the Bible, such as giving blessings, to literature generally ([Publishers Weekly review](https://www.publishersweekly.com/978-0-06-288181-6)).
