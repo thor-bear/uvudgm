@@ -3,9 +3,6 @@
 >
 > [[The Power of Ritual - Casper ter Kuile]]
 
-> [!note] 🤖 AI-contributed
-> Everything on this page was researched and compiled by Claude on 2026-10-12 from web sources. **Insights** is intentionally left blank for your own thinking. I could not access the full text of the book, so the book-specific material below comes from reviews and secondary write-ups. Check page numbers and the endnotes against your copy before citing.
-
 ## Insights
 
 ## What ter Kuile says in the book
@@ -89,10 +86,6 @@ From their [how-to page](https://www.harrypottersacredtext.com/resources/how-tos
 > "When we are open to reading a text as sacred, we are willing to learn from it, and not just about it." - Vanessa Zoltan, via [Harvard Crimson](https://www.thecrimson.com/article/2021/11/18/harry-potter-podcast/)
 
 > "A text is sacred when a community says that the text is sacred." *(paraphrasing Stephanie Paulsell as relayed by ter Kuile)* - [[The Power of Ritual - Casper ter Kuile]] (page number to add from your copy)
-
-## Open questions (AI-flagged gaps)
-- The book's endnotes and bibliography were not accessible, so the list of sources "he references specifically" is reconstructed from the book's reviews, the HPST resource pages and secondary write-ups. Worth checking the notes section of your copy and adding anything I missed.
-- Page numbers for the sacred reading chapter.
 
 ## Media
 Podcast: [[Harry Potter and the Sacred Text]]
